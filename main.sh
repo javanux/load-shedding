@@ -15,7 +15,7 @@ fi
 
 
 #first download a fresh file
-#bash ./downloader.sh
+bash ./downloader.sh
 
 #convert blah.blah.pdf to .txt and to unicode
 bash ./convertor.sh
